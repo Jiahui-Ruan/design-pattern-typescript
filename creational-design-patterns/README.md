@@ -9,4 +9,5 @@
 * Cross-class communication
 * Perfectly represents unique items
 
-##
+## Factory Pattern
+* Combination of the single responsibility and Open/Closed principles
