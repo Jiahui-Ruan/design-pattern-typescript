@@ -11,3 +11,9 @@
 
 ## Factory Pattern
 * Combination of the single responsibility and Open/Closed principles
+
+## Loose Coupling
+* Single Responsibility principle
+* Seperation of concerns
+* Factory pattern/object pool
+* Dependency injection
